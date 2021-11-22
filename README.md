@@ -17,12 +17,20 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
-## PROGRAM:
-
-
-
+## PROGRAM:#Developed by:P.Sandeep 
+```
+#RegisterNumber:21005944
+a=int(input())
+b=int(input())
+temp=a
+a=b
+b=temp
+print("Swapped values are:",(a),(b))
+```
+## Output:
+![GitHub Logo](swap.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
 
-
+ 
